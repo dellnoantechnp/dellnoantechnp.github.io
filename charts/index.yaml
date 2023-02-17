@@ -11,9 +11,9 @@ entries:
           url: https://github.com/dellnoantechnp.github.io/tree/main/charts/xxl-job-admin
     apiVersion: v2
     appVersion: 2.3.1
-    created: "2023-02-13T22:36:09.095679+08:00"
+    created: "2023-02-17T14:54:38.1899004+08:00"
     description: XXL-JOB-ADMIN is schedule center for XXL-JOB
-    digest: ae9c7a43ebd9590321ecbf14a4b5dafaaa60d438b54cc40fff0afcc888e928e7
+    digest: 0020c5530561026055759262b0df18c5a298597191673ea47e79d85999343cf0
     home: https://github.com/xuxueli/xxl-job/
     maintainers:
     - email: dellnoantechnp@gmail.com
@@ -36,7 +36,7 @@ entries:
           url: https://github.com/dellnoantechnp.github.io/tree/main/charts/xxl-job-admin
     apiVersion: v2
     appVersion: 2.3.1
-    created: "2023-02-13T22:36:09.095125+08:00"
+    created: "2023-02-17T14:54:38.1887686+08:00"
     description: XXL-JOB-ADMIN is schedule center for XXL-JOB
     digest: 70ea38480d58728dc675d26a0b76164a80913d0e4b4043d29c03bdd11391f00b
     home: https://github.com/xuxueli/xxl-job/
@@ -51,4 +51,4 @@ entries:
     urls:
     - xxl-job-admin-1.0.1.tgz
     version: 1.0.1
-generated: "2023-02-13T22:36:09.093834+08:00"
+generated: "2023-02-17T14:54:38.1881567+08:00"
